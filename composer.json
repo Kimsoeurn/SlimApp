@@ -1,0 +1,14 @@
+{
+    "name": "root/public_html",
+    "description": "Slim PHP Micro Framework",
+    "require": {
+        "slim/slim": "^2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sok Kimsoeurn",
+            "email": "sokkimsoeurn@gmail.com"
+        }
+    ]
+}
